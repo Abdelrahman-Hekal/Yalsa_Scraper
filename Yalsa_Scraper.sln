@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Yalsa_Scraper", "Yalsa_Scraper.pyproj", "{1D971EA1-22F6-4ADD-A864-AF60D2AA0C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D971EA1-22F6-4ADD-A864-AF60D2AA0C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D971EA1-22F6-4ADD-A864-AF60D2AA0C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720DEDB9-9BC1-4FBC-A5E1-492753AE2C2C}
+	EndGlobalSection
+EndGlobal
